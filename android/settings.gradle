@@ -1,0 +1,3 @@
+rootProject.name = 'Reduc'
+
+include ':app'
